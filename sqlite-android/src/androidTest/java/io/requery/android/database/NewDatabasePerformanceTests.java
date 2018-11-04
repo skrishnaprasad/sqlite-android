@@ -19,7 +19,7 @@ package io.requery.android.database;
 
 import android.annotation.SuppressLint;
 import android.content.ContentValues;
-import android.support.test.runner.AndroidJUnit4;
+import androidx.test.runner.AndroidJUnit4;
 
 import junit.framework.TestCase;
 
@@ -28,7 +28,6 @@ import io.requery.android.database.sqlite.SQLiteDatabase;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.runner.RunWith;
 
 import java.io.File;
 import java.util.Random;

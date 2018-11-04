@@ -17,7 +17,7 @@
 
 package io.requery.android.database;
 
-import android.support.test.runner.AndroidJUnit4;
+import androidx.test.runner.AndroidJUnit4;
 
 import junit.framework.TestSuite;
 import org.junit.Ignore;

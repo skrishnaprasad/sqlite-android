@@ -20,9 +20,9 @@ package io.requery.android.database;
 import android.content.Context;
 import android.database.sqlite.SQLiteDiskIOException;
 import android.database.sqlite.SQLiteException;
-import android.support.test.InstrumentationRegistry;
-import android.support.test.filters.Suppress;
-import android.support.test.runner.AndroidJUnit4;
+import androidx.test.InstrumentationRegistry;
+import androidx.test.filters.Suppress;
+import androidx.test.runner.AndroidJUnit4;
 import android.util.Log;
 
 import org.junit.After;

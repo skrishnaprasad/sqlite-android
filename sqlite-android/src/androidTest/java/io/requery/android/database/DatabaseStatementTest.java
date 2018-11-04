@@ -21,9 +21,9 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteConstraintException;
 import android.database.sqlite.SQLiteDoneException;
-import android.support.test.InstrumentationRegistry;
-import android.support.test.filters.MediumTest;
-import android.support.test.runner.AndroidJUnit4;
+import androidx.test.InstrumentationRegistry;
+import androidx.test.filters.MediumTest;
+import androidx.test.runner.AndroidJUnit4;
 
 import org.junit.After;
 import org.junit.Before;
